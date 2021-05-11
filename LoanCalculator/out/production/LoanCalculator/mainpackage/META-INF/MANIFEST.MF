@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 Manifest-Version: 1.0
 Main-Class: mainpackage.Main
 Class-Path: src.zip javafx-swt.jar javafx.web.jar javafx.base.jar javafx
  .fxml.jar javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.
  graphics.jar
 
-=======
-Manifest-Version: 1.0
-Main-Class: mainpackage.Main
-Class-Path: src.zip javafx-swt.jar javafx.web.jar javafx.base.jar javafx
- .fxml.jar javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.
- graphics.jar
-
->>>>>>> 00aeec047a54339b3dd9a90e146b2ad2412eb7da
